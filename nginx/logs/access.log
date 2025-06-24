@@ -1,0 +1,8 @@
+24/Jun/2025:11:19:12 +0000 "GET /service1 HTTP/1.1" 404
+24/Jun/2025:11:19:13 +0000 "GET /favicon.ico HTTP/1.1" 404
+24/Jun/2025:11:19:17 +0000 "GET /service1/ping HTTP/1.1" 200
+24/Jun/2025:11:19:23 +0000 "GET /service2/ping HTTP/1.1" 200
+24/Jun/2025:11:19:47 +0000 "GET /service2/ping HTTP/1.1" 200
+24/Jun/2025:11:20:07 +0000 "GET /service1/ping HTTP/1.1" 200
+24/Jun/2025:11:20:13 +0000 "GET /service1/hello HTTP/1.1" 200
+24/Jun/2025:11:20:19 +0000 "GET /service2/hello HTTP/1.1" 200
